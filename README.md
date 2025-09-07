@@ -4,19 +4,6 @@ A Convolutional Neural Network (CNN) built with TensorFlow/Keras to classify han
 
 ---
 
-## 📂 Project Structure
-
-mnist-cnn/
-│── notebooks/
-│ └── mnist_cnn.ipynb # Main notebook with training and evaluation
-│── models/ # Saved model files after training
-│── requirements.txt # Project dependencies
-│── README.md # Project description
-
-
-
----
-
 ## 🚀 Features
 
 - Fully Convolutional Neural Network for MNIST digit classification.
@@ -33,7 +20,7 @@ mnist-cnn/
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/copycode69/mnist-cnn
 cd mnist-cnn
 
 
